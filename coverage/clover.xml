@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1561523561080" clover="3.2.0">
-  <project timestamp="1561523561081" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1567580112069" clover="3.2.0">
+  <project timestamp="1567580112070" name="All files">
+    <metrics statements="26" coveredstatements="21" conditionals="12" coveredconditionals="7" methods="11" coveredmethods="11" elements="49" coveredelements="39" complexity="0" loc="26" ncloc="26" packages="1" files="2" classes="2"/>
+    <file name="arithmetic.js" path="/mnt/c/Users/Pratiibh/codefellows/codefellows/401n13/labs/lab-01/lib/arithmetic.js">
+      <metrics statements="21" coveredstatements="16" conditionals="10" coveredconditionals="5" methods="10" coveredmethods="10"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="7" count="12" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="34" count="0" type="stmt"/>
+      <line num="37" count="2" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="42" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="46" count="2" type="stmt"/>
+    </file>
+    <file name="greet.js" path="/mnt/c/Users/Pratiibh/codefellows/codefellows/401n13/labs/lab-01/lib/greet.js">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
   </project>
 </coverage>
