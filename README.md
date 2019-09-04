@@ -1,6 +1,6 @@
- # LAB - 08
+ # LAB - 01
 
-## LAB: Class 08
+## LAB: Class 01
 
 ### Pratiibh Bassi
 
